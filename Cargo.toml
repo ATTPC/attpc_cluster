@@ -9,4 +9,5 @@ name = "attpc_cluster"
 crate-type = ["cdylib"]
 
 [dependencies]
+numpy = "0.22.1"
 pyo3 = "0.22.0"
